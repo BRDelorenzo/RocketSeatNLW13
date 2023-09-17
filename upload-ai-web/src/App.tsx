@@ -17,7 +17,7 @@ export function App() {
 
           <span className="text-sm text-slate">
 
-            Desenvolvido com 👺 no NLW13 - RocketSeat
+            Desenvolvido com 😈 no NLW13 - RocketSeat
 
           </span>
 
